@@ -1,0 +1,96 @@
+Opaque,Yes,Yes,Yes,Yes,White
+Opaque,Yes,Yes,Yes,Yes,Black
+Opaque,Yes,Yes,Yes,No,White
+Opaque,Yes,Yes,Yes,No,Black
+Opaque,Yes,Yes,No,Yes,White
+Opaque,Yes,Yes,No,Yes,Black
+Opaque,Yes,Yes,No,No,White
+Opaque,Yes,Yes,No,No,Black
+Opaque,Yes,No,Yes,Yes,White
+Opaque,Yes,No,Yes,Yes,Black
+Opaque,Yes,No,Yes,No,White
+Opaque,Yes,No,Yes,No,Black
+Opaque,Yes,No,No,Yes,White
+Opaque,Yes,No,No,Yes,Black
+Opaque,Yes,No,No,No,White
+Opaque,Yes,No,No,No,Black
+Opaque,No,Yes,Yes,Yes,White
+Opaque,No,Yes,Yes,Yes,Black
+Opaque,No,Yes,Yes,No,White
+Opaque,No,Yes,Yes,No,Black
+Opaque,No,Yes,No,Yes,White
+Opaque,No,Yes,No,Yes,Black
+Opaque,No,Yes,No,No,White
+Opaque,No,Yes,No,No,Black
+Opaque,No,No,Yes,Yes,White
+Opaque,No,No,Yes,Yes,Black
+Opaque,No,No,Yes,No,White
+Opaque,No,No,Yes,No,Black
+Opaque,No,No,No,Yes,White
+Opaque,No,No,No,Yes,Black
+Opaque,No,No,No,No,White
+Opaque,No,No,No,No,Black
+Transparent Dark,Yes,Yes,Yes,Yes,White
+Transparent Dark,Yes,Yes,Yes,Yes,Black
+Transparent Dark,Yes,Yes,Yes,No,White
+Transparent Dark,Yes,Yes,Yes,No,Black
+Transparent Dark,Yes,Yes,No,Yes,White
+Transparent Dark,Yes,Yes,No,Yes,Black
+Transparent Dark,Yes,Yes,No,No,White
+Transparent Dark,Yes,Yes,No,No,Black
+Transparent Dark,Yes,No,Yes,Yes,White
+Transparent Dark,Yes,No,Yes,Yes,Black
+Transparent Dark,Yes,No,Yes,No,White
+Transparent Dark,Yes,No,Yes,No,Black
+Transparent Dark,Yes,No,No,Yes,White
+Transparent Dark,Yes,No,No,Yes,Black
+Transparent Dark,Yes,No,No,No,White
+Transparent Dark,Yes,No,No,No,Black
+Transparent Dark,No,Yes,Yes,Yes,White
+Transparent Dark,No,Yes,Yes,Yes,Black
+Transparent Dark,No,Yes,Yes,No,White
+Transparent Dark,No,Yes,Yes,No,Black
+Transparent Dark,No,Yes,No,Yes,White
+Transparent Dark,No,Yes,No,Yes,Black
+Transparent Dark,No,Yes,No,No,White
+Transparent Dark,No,Yes,No,No,Black
+Transparent Dark,No,No,Yes,Yes,White
+Transparent Dark,No,No,Yes,Yes,Black
+Transparent Dark,No,No,Yes,No,White
+Transparent Dark,No,No,Yes,No,Black
+Transparent Dark,No,No,No,Yes,White
+Transparent Dark,No,No,No,Yes,Black
+Transparent Dark,No,No,No,No,White
+Transparent Dark,No,No,No,No,Black
+Transparent Light,Yes,Yes,Yes,Yes,White
+Transparent Light,Yes,Yes,Yes,Yes,Black
+Transparent Light,Yes,Yes,Yes,No,White
+Transparent Light,Yes,Yes,Yes,No,Black
+Transparent Light,Yes,Yes,No,Yes,White
+Transparent Light,Yes,Yes,No,Yes,Black
+Transparent Light,Yes,Yes,No,No,White
+Transparent Light,Yes,Yes,No,No,Black
+Transparent Light,Yes,No,Yes,Yes,White
+Transparent Light,Yes,No,Yes,Yes,Black
+Transparent Light,Yes,No,Yes,No,White
+Transparent Light,Yes,No,Yes,No,Black
+Transparent Light,Yes,No,No,Yes,White
+Transparent Light,Yes,No,No,Yes,Black
+Transparent Light,Yes,No,No,No,White
+Transparent Light,Yes,No,No,No,Black
+Transparent Light,No,Yes,Yes,Yes,White
+Transparent Light,No,Yes,Yes,Yes,Black
+Transparent Light,No,Yes,Yes,No,White
+Transparent Light,No,Yes,Yes,No,Black
+Transparent Light,No,Yes,No,Yes,White
+Transparent Light,No,Yes,No,Yes,Black
+Transparent Light,No,Yes,No,No,White
+Transparent Light,No,Yes,No,No,Black
+Transparent Light,No,No,Yes,Yes,White
+Transparent Light,No,No,Yes,Yes,Black
+Transparent Light,No,No,Yes,No,White
+Transparent Light,No,No,Yes,No,Black
+Transparent Light,No,No,No,Yes,White
+Transparent Light,No,No,No,Yes,Black
+Transparent Light,No,No,No,No,White
+Transparent Light,No,No,No,No,Black

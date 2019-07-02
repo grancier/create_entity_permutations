@@ -1,0 +1,32 @@
+1,Blog,Manual,Yes
+1,Blog,Manual,No
+1,Blog,Most Recent,Yes
+1,Blog,Most Recent,No
+1,Recipe,Manual,Yes
+1,Recipe,Manual,No
+1,Recipe,Most Recent,Yes
+1,Recipe,Most Recent,No
+2,Blog,Manual,Yes
+2,Blog,Manual,No
+2,Blog,Most Recent,Yes
+2,Blog,Most Recent,No
+2,Recipe,Manual,Yes
+2,Recipe,Manual,No
+2,Recipe,Most Recent,Yes
+2,Recipe,Most Recent,No
+3,Blog,Manual,Yes
+3,Blog,Manual,No
+3,Blog,Most Recent,Yes
+3,Blog,Most Recent,No
+3,Recipe,Manual,Yes
+3,Recipe,Manual,No
+3,Recipe,Most Recent,Yes
+3,Recipe,Most Recent,No
+4,Blog,Manual,Yes
+4,Blog,Manual,No
+4,Blog,Most Recent,Yes
+4,Blog,Most Recent,No
+4,Recipe,Manual,Yes
+4,Recipe,Manual,No
+4,Recipe,Most Recent,Yes
+4,Recipe,Most Recent,No

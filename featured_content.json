@@ -1,0 +1,17 @@
+{
+  "bundlename":"featured_content",
+  "fields":{
+    "field_featured_content_type":{ "blog": "Blog", "recipe": "Recipe" },
+    "field_featured_content_mode":{ "manual": "Manual", "most_recent": "Most Recent" },
+    "field_featured_content_ref":{
+      "1":1,
+      "2":2,
+      "3":3,
+      "4":4
+    },
+    "field_header":{
+      "yes":"Yes",
+      "no":"No"
+    }
+  }
+}

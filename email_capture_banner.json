@@ -1,0 +1,27 @@
+{
+  "bundlename":"email_capture_banner",
+  "fields":{
+    "field_theme":{
+      "opaque":"Opaque",
+      "transparent_dark":"Transparent Dark",
+      "transparent_light":"Transparent Light"
+    },
+    "field_background_color":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_description":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_email_list":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_promotion":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_text_color":{ "white": "White", "black": "Black" }
+  }
+}

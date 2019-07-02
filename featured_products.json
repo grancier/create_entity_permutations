@@ -1,0 +1,33 @@
+
+{
+  "bundlename":"featured_products",
+  "fields":{
+    "field_cta_link":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_featured_product":{
+      "0":0,
+      "1":1,
+      "2":2
+    },
+    "field_header":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_image":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_mobile_banner":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_tablet_banner":{
+      "yes":"Yes",
+      "no":"No"
+    },
+    "field_opacity": { "0": "0%", "0.1": "10%", "0.2": "20%", "0.3": "30%" },
+    "field_slimhero_theme": { "light": "Light", "dark": "Dark" }
+  }
+}
